@@ -1,7 +1,5 @@
 ## Important links
-https://stackblitz.com/edit/angular-ivy-r8wxyb for seeing code  
-https://angular-ivy-r8wxyb.stackblitz.io/calculator-component to see app  
-https://github.com/Mizzou-CSIT4830-CS7830-F20/exploration1-front-end-ilam56 for main github link  
+https://angular-ivy-r8wxyb.stackblitz.io/calculator-component to see app   
 
 ## Basic Reading
 https://angular.io/guide/setup-local  
